@@ -73,6 +73,7 @@
     "babel-loader": "^8.2.5",
     "chromatic": "^6.5.4",
     "copyfiles": "^2.4.1",
+    "css-loader": "^6.7.1",
     "rimraf": "^3.0.2",
     "semantic-release": "^19.0.2"
   },
@@ -83,5 +84,5 @@
     "@semantic-release/github",
     "@semantic-release/npm",
     "@semantic-release/git"
-]
+  ]
 }
